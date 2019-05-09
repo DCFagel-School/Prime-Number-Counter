@@ -1,4 +1,4 @@
 #School # Prime-Number-Counter
 #School 
 
-Command Line:./<progname> -t <threadCnt> -l <numberRange>
+Command Line: ./<#School progname> -t <threadCnt> -l <numberRange>
