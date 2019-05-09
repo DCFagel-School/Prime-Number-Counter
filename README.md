@@ -1,4 +1,3 @@
-#School # Prime-Number-Counter
-#School 
+#School Prime-Number-Counter 
 
-Command Line: ./<#School progname> -t <threadCnt> -l <numberRange>
+Command Line: ./progName -t "thread_count" -l "number_range"
